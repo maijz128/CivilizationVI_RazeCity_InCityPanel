@@ -4,7 +4,7 @@
 
 **Version** ： `v1.0.0.216`
 
-**Introduction **
+**Introduction**
 
 Civilization VI MOD :  Raze City  In City Panel.
 
