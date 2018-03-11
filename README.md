@@ -11,3 +11,12 @@ Civilization VI MOD :  Raze City  In City Panel.
 **说明**
 
 文明6 MOD：摧毁城市功能。
+
+
+
+**Preview**
+
+![https://i.imgur.com/XBFNX2J.gif](https://i.imgur.com/XBFNX2J.gif)
+
+
+
