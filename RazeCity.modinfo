@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="RazeCity" version="1">
+	<Properties>
+		<Name>RazeCity</Name>
+		<Teaser>RazeCity</Teaser>
+		<Description>RazeCity_description</Description>
+		<Authors>MaiJZ</Authors>
+		<ShowInBrowser>AlwaysShow</ShowInBrowser>
+		<EnabledByDefault>1</EnabledByDefault>
+		<EnabledAtStartup>1</EnabledAtStartup>
+	</Properties>
+	<Components>
+		<ImportFiles id="_Dev_Placeholder_ImportFiles">
+			<Items>
+				<File>CityPanel.lua</File>
+				<File>CityPanel.xml</File>
+				<File>RazeCity.lua</File>
+				<File>RazeCity.xml</File>
+			</Items>
+		</ImportFiles>
+		<UpdateText id="_Dev_Placeholder_Text">
+			<File>Text.xml</File>
+		</UpdateText>
+	</Components>
+	<Files>
+		
+		<File>CityPanel.lua</File>
+		<File>CityPanel.xml</File>
+		<File>RazeCity.lua</File>
+		<File>RazeCity.xml</File>
+		<File>Text.xml</File>
+	</Files>
+	<LocalizedText>
+		<Text id="RazeCity">
+			<zh_Hans_CN>功能：摧毁城市</zh_Hans_CN>
+		</Text>
+		<Text id="RazeCity_description">
+			<zh_Hans_CN>
+			可以在城市仪表盘里选择摧毁城市。
+			</zh_Hans_CN>
+		</Text>			
+	</LocalizedText>	
+</Mod>

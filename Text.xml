@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_HUD_RazeCityChooser_TILE">
+			<Text>Raze City</Text>
+		</Row>
+
+	</EnglishText>
+	<LocalizedText>
+		<Replace Tag="LOC_HUD_RazeCityChooser_TILE" Language="zh_Hans_CN">
+			<Text>摧毁城市</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>
